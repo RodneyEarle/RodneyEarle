@@ -1,16 +1,30 @@
-## Hi there 👋
+HELLO I'm Rodney Earle
+BI Analyst in Training
+SQL • Excel • Tableau
+Analytics • Systems • Execution
 
-<!--
-**RodneyEarle/RodneyEarle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About
 
-Here are some ideas to get you started:
+Currently completing the TripleTen Business Intelligence program, building hands-on skills in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SQL querying
+
+Excel-based analysis
+
+Tableau dashboard development
+
+This GitHub documents my progress as I develop real-world data projects and analytics case studies.
+
+Current Focus
+
+Strengthening SQL fundamentals
+
+Building portfolio-ready dashboards
+
+Practicing business metric analysis
+
+Developing clean, structured analytical workflows
+
+Goal
+
+Transition into an entry-level Business Intelligence or Data Analyst role by demonstrating measurable, project-based competency.
